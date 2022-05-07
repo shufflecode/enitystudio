@@ -1,4 +1,4 @@
-# enity studio
+# entity-studio 
 
  - a simple .Net class Generator for Database entities based on WinUI3
 
