@@ -11,6 +11,7 @@ Modern Frameworks like enityframework are mighty, but personally I prefer more c
 #### Todo: 
 
 Scan for Database Servers in local network
+
 Support for generation settings:
   
   - throw exceptions in attribute getters j/n
